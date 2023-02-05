@@ -1,6 +1,7 @@
 {
     'name' : 'Employee Management',
     'version' : '1.0',
+    'author': 'Yusuf Qisthi :p',
     'summary':'',
     'sequence': 1,
     'description':""" Buat Daftar Sekolah """,
