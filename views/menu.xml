@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_management_root"
+        name="Employee Management"
+        action=""
+        sequence="0"/>
+
+    <menuitem id="menu_employee_root"
+    name="Employee"
+    action=""
+    sequence="0"/>
+        
+    <menuitem id="menu_employee_detail"
+    name="Employee Detail"
+    action=""
+    sequence="0"/>
+</odoo>

@@ -12,7 +12,7 @@
     ],
 
     'data':[
-
+        'views/menu.xml'
     ],
     'demo':[],
     'qweb':[],
